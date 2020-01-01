@@ -1,1 +1,1 @@
-# SmallCodingProject
+# JBSnake
